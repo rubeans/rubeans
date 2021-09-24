@@ -2,4 +2,3 @@
 - I’m from Rio de Janeiro - Brazil.
 - I’m interested in learning new things.
 - I’m currently learning web development.
-
