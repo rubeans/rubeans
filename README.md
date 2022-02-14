@@ -1,3 +1,3 @@
-- Hi, I’m Rubens Guilherme and I study analysis and systems development at Cruzeiro do Sul Virtual.
+- Hi, I’m Rubens Guilherme.
 - I’m from Rio de Janeiro - Brazil.
-- I’m currently learning web development.
+- I’m currently learning full-stack web development.
