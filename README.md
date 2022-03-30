@@ -1,3 +1,3 @@
 - Hi, I’m Rubens Guilherme.
 - I’m from Rio de Janeiro - Brazil.
-- I’m currently learning full-stack web development.
+- Currently learning full-stack web development.
