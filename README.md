@@ -1,7 +1,7 @@
-# Hi there, I’m Rubens Guilherme.
+# Hi there, I’m Rubens Guilherme
 - I'm currently learning full-stack web development
 - I'm looking for my first job as a web developer
-##
+  
 
 <div align="center">
     <a href="https://github.com/rubeans">
@@ -9,7 +9,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubeans&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-##
 ### Technologies and Skills
 <div style="display: inline_block"><br>
     <img align="center" alt="Gui-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -27,7 +26,6 @@
 </div>
 
 ##
-
 ### Contact me
 <div>
     <a href = "mailto:rubensglf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
