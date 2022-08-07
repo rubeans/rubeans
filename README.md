@@ -1,8 +1,6 @@
 # Hi there, I’m Rubens Guilherme
 - I'm currently learning full-stack web development
-- I'm looking for my first job as a web developer
   
-
 <div align="center">
     <a href="https://github.com/rubeans">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubeans&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
