@@ -1,11 +1,4 @@
-# Hi there, I’m Rubens Guilherme
-- I'm currently learning full-stack web development
-  
-<div align="center">
-    <a href="https://github.com/rubeans">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubeans&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubeans&layout=compact&langs_count=7&theme=dark"/>
-</div>
+# Hi there :)
 
 ### Technologies and Skills
 <div style="display: inline_block"><br>
