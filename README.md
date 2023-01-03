@@ -1,6 +1,6 @@
 # Technologies & Tools
 
-<table style="margin: 0 auto;">
+<table margin="0 auto">
   <tr>
     <td align="center" height="108" width="108">
       <img
