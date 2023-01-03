@@ -1,4 +1,4 @@
-# Technologies & Tools
+ <h1 align="center">Technologies & Tools</h1>
 
 <table align="center">
   <tr>
