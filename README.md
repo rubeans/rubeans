@@ -1,1 +1,1 @@
-Testando ser um desenvolvedor
+Studying to be a dev
